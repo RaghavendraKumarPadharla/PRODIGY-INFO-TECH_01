@@ -1,3 +1,4 @@
+## TASK-2
 # Titanic Dataset Analysis
 
 This repository contains a comprehensive exploratory data analysis (EDA) of the Titanic dataset from Kaggle. The goal of this analysis is to explore the relationships between various passenger characteristics (such as age, gender, and passenger class) and their survival rates. The project involves data cleaning, visualization, and insights extraction using Python.
@@ -37,6 +38,6 @@ The dataset used in this analysis is the Titanic dataset provided by [Kaggle](ht
 ## Conclusion
 The analysis of the Titanic dataset reveals that survival was significantly influenced by gender, passenger class, and age:
 
-Females had a higher survival rate than males.
-First and Second Class passengers were more likely to survive than those in Third Class.
-Younger passengers had better survival rates, reflecting the priority given to women and children.
+-**Females** had a higher survival rate than males.
+-**First and Second Class passengers** were more likely to survive than those in Third Class.
+-**Younger passengers** had better survival rates, reflecting the priority given to women and children.
